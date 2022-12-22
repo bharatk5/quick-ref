@@ -1,0 +1,18 @@
+git-commands
+Clone a url
+git clone
+
+List local branches
+git branch
+
+List remote branches
+git branch -r
+
+List all branches
+git branch -a
+
+Switch to remote branch
+git checkout
+
+Create a new branch locally
+git checkout -b
