@@ -1,4 +1,7 @@
 GIT COMMANDS
+=====PRINCIPLES=====
+1. Branches are disposable. Don't reuse branches. Once its purpose is fulfilled delete it.
+
 =====SETUP & INIT=====
 Configuring user information, initializing and cloning repositories
   $git init
